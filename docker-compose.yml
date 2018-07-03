@@ -1,0 +1,6 @@
+version: '3'
+services:
+  noteja:
+    image: noteja
+    ports:
+      - 3000:3000
